@@ -1,15 +1,38 @@
 ### Hi there 👋
 
+<div>
 <img src="https://github.com/Archianne/Archianne/blob/main/profile.png?raw=true" width="100">
 
-My name is Helena, I am currently living in the UK and studying full time to become a front-end developer. I have studied Engineering but I feel like now I'm following my dreams. I can't wait for what the future holds.
+My name is Helena, I live in the UK and studying full time to become a front-end developer. I have studied Engineering but I feel like now I'm following my dreams. I can't wait for what the future holds.
 
 - 🌱 I’m currently studying at School of Code.
+  
+<hr>
+  
+  <div> 
+  <a href="https://instagram.com/helcodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: helena19w@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/helena-archer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
+<hr>
+  
+</div>
+<h3>Languages and Tools:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="archianne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="archianne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="archianne-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div><br>
 
-![Codewars Bagde](https://www.codewars.com/users/Archianne/badges/small) ![](https://komarev.com/ghpvc/?username=Archianne&color=green&label=Views)
+![Codewars Bagde](https://www.codewars.com/users/Archianne/badges/small) ![Views](https://komarev.com/ghpvc/?username=Archianne&color=green&label=Views)
 
+<hr>
 
-![Snake animation](https://github.com/archianne/archianne/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/archianne">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archianne&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archianne&layout=compact&langs_count=16&theme=light"/>
+  
+<hr>
+
+ ![Snake animation](https://github.com/archianne/archianne/blob/output/github-contribution-grid-snake.svg)
