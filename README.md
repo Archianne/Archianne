@@ -15,10 +15,10 @@
 My name is Helena, I live in the UK and studying full time to become a front-end developer. I have studied Engineering but I feel like now I'm following my dreams. I can't wait for what the future holds.
 
 🌱 I’m currently studying at School of Code.
-  
+ 
+</div>
 <hr>
   
-</div>
 <h3>Languages and Tools:</h3>
 <div style="display: inline_block">
   <img align="center" alt="archianne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
