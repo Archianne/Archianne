@@ -12,4 +12,4 @@ My name is Helena, I am currently living in the UK and studying full time to bec
 ![Codewars Bagde](https://www.codewars.com/users/Archianne/badges/small) ![](https://komarev.com/ghpvc/?username=Archianne&color=green&label=Views)
 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/archianne/archianne/blob/output/github-contribution-grid-snake.svg)
