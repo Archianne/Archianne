@@ -30,8 +30,8 @@ My name is Helena, I live in the UK and studying full time to become a front-end
 <hr>
 
   <a href="https://github.com/archianne">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Archianne&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archianne&layout=compact&langs_count=16&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Archianne&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archianne&layout=compact&langs_count=16&theme=light"/>
   
 <hr>
 
