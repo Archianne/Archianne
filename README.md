@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/Archianne/Archianne/blob/main/Profile%20(1).png?raw=true" width="100">
+<img src="https://github.com/Archianne/Archianne/blob/main/profile.png?raw=true" width="100">
 
 My name is Helena, I am currently living in the UK and studying full time to become a front-end developer. I have studied Engineering but I feel like now I'm following my dreams. I can't wait for what the future holds.
 
