@@ -17,7 +17,8 @@ My name is Helena, I live in the UK and studying full time to become a front-end
 🌱 I’m currently studying at School of Code.
  
 </div>
-<hr>
+
+##
   
 <h3>Languages and Tools:</h3>
 <div style="display: inline_block">
@@ -37,4 +38,7 @@ My name is Helena, I live in the UK and studying full time to become a front-end
 <hr>
 
  <p align="center"><img align="center" src="https://github.com/archianne/archianne/blob/output/github-contribution-grid-snake.svg" /></p>
+  
+  ##
+  
  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Archianne&color=green&label=Views" /></p>
