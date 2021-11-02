@@ -30,8 +30,9 @@ A highly motivated, ambitious individual who takes great pride in carrying out w
   <img align="left" src="./img/git.png" width="40">
   <img align="left" src="./img/node.png" width="40">
  
-</div><br>
-
+</div>
+<br>
+<br>
 <hr>
 
 <div align="center">
