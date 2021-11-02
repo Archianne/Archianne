@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-<img align="left" src="./img/profile.png" width="100">
+<img align="left" src="./img/transparent.png" width="100">
 
 <div>
 
@@ -22,9 +22,14 @@ A highly motivated, ambitious individual who takes great pride in carrying out w
 
 <h3>Languages and Tools:</h3>
 <div style="display: inline_block">
-  <img align="center" alt="archianne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="archianne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="archianne-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" src="./img/html.png" width="40">
+  <img align="left" src="./img/css.png" width="40">
+  <img align="left" src="./img/sass.png" width="40">
+  <img align="left" src="./img/js.png" width="40">
+  <img align="left" src="./img/react.png" width="40">
+  <img align="left" src="./img/git.png" width="40">
+  <img align="left" src="./img/node.png" width="40">
+ 
 </div><br>
 
 <hr>
