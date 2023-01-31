@@ -11,13 +11,8 @@
 <img align="left" src="./img/transparent.png" width="100">
 
 <div>
-A highly motivated, ambitious individual who takes great pride in carrying out work on projects to a high standard. Designed and engineered projects on GitHub with an aim to cement what I have learnt; successfully advancing my knowledge of advanced coding techniques with the use of online courses. As a visual person, I take great care in ensuring my applications are pleasing to the eye, and easy to use; the user experience is a very important part of what I do.
-
-
-
-🌱 I enjoy helping people who are struggling as I have found this to be a further opportunity to cement my knowledge and I am really excited about this new phase of my life, and where it can take me in the future. \
-\
-💜 In my free time I like to learn more about React Native and the world of mobile developement.
+After 5 years studying Environmental Engineering, I realised I wasn't feeling fulfilled in this area. I have been passionate about tech since a very young age, and I decided to follow my dreams after moving to England. When I started at the School of Code I felt I could actually make a difference and work with something that I love. Solving problems through code.
+I am a highly motivated, ambitious individual who takes great pride in carrying out work on projects to a high standard. I design and engineer projects with an aim to cement what I have learnt; successfully advancing my knowledge of advanced coding techniques through self-study. As a visual person, I take great care in ensuring my applications are pleasing to the eye and easy to use; the user experience is a very important part of what I do. I enjoy helping people, but upon learning different tech I have found myself wanting to break into the industry to further progress in other areas; I have a real passion for mobile development and would love to explore this in more depth.
 </div>
 
 <hr>
