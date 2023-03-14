@@ -1,5 +1,5 @@
   <div align="center"> 
-  <a href="https://instagram.com/archianne.codes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/archianne_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: helena19w@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helena-archer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
@@ -11,8 +11,7 @@
 <img align="left" src="./img/transparent.png" width="100">
 
 <div>
-After 5 years studying Environmental Engineering, I realised I wasn't feeling fulfilled in this area. I have been passionate about tech since a very young age, and I decided to follow my dreams after moving to England. When I started at the School of Code I felt I could actually make a difference and work with something that I love. Solving problems through code.
-I am a highly motivated, ambitious individual who takes great pride in carrying out work on projects to a high standard. I design and engineer projects with an aim to cement what I have learnt; successfully advancing my knowledge of advanced coding techniques through self-study. As a visual person, I take great care in ensuring my applications are pleasing to the eye and easy to use; the user experience is a very important part of what I do. I enjoy helping people, but upon learning different tech I have found myself wanting to break into the industry to further progress in other areas; I have a real passion for mobile development and would love to explore this in more depth.
+After 5 years studying Environmental Engineering, I realised I wasn't feeling fulfilled in this area. I have been passionate about tech since a very young age, and I decided to follow my dreams after moving to England. When I started at the School of Code I felt I could actually make a difference and work with something that I love. Solving problems through code. 
 </div>
 
 <hr>
@@ -64,10 +63,8 @@ In the read me of each project you can find more information.
 | Website - RaiPonticelli | [Website](https://raiponticelli.com/)                        | This was a project made for a friend where I went more in-depth in React, Netlify Identity, Netlify CMS.                                                                                          |
 | React Native Calculator | [Github](https://github.com/Archianne/rn-calculator) | I've been building this project in my own free time to practice more about React Native, Typescript, Google Ads and publishing apps.\ Find more at [Expo](https://expo.dev/@archianne/calculator) |
 
-
 <br>
 <hr>
-
 
  <p align="center"><img align="center" src="https://github.com/archianne/archianne/blob/output/github-contribution-grid-snake.svg" /></p>
   
