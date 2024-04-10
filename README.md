@@ -8,8 +8,6 @@
 
 ### Hi there 👋
 
-<img align="left" src="./img/transparent.png" width="100">
-
 <div>
 After 5 years studying Environmental Engineering, I realised I wasn't feeling fulfilled in this area. I have been passionate about tech since a very young age, and I decided to follow my dreams after moving to England. When I started at the School of Code I felt I could actually make a difference and work with something that I love. Solving problems through code. 
 </div>
