@@ -14,7 +14,7 @@
   <a href="mailto:archiannedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/archianne" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-I'm a **Senior Frontend Developer** currently working remotely from Birmingham, UK. Over the last three years at Graide, I've grown from the first dedicated frontend engineer to leading frontend architecture, improving performance, and enhancing developer experience. I specialize in building modern, accessible, and consistent UI components in React and React Native Web environments.
+I'm a **Senior Frontend Developer** currently working remotely from Birmingham, UK. Over the last five years, I've grown from the first dedicated frontend engineer to leading frontend architecture, improving performance, and enhancing developer experience. I specialize in building modern, accessible, and consistent UI components in React and React Native Web environments.
 
 My journey to tech was a bit non-traditional! After studying Environmental Engineering for 5 years, I realized my true passion lay elsewhere. Following a move to England, I decided to chase my lifelong interest in tech via the School of Code, and I haven't looked back since. I love solving problems through code and continuously leveling up my skills.
 
