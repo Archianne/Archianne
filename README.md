@@ -38,17 +38,6 @@ My journey to tech was a bit non-traditional! After studying Environmental Engin
 <hr>
 <br>
 
-<h3 align="center">🚀 Independent Projects</h3>
-
-| Project | Links | Description |
-|---|---|---|
-| **Website - RaiPonticelli** | [Website](https://raiponticelli.com/) | A freelance project built with React, Netlify Identity, and Netlify CMS for client content management. |
-| **React Native Calculator** | [GitHub](https://github.com/Archianne/rn-calculator) <br> [Expo](https://expo.dev/@archianne/calculator) | A personal project built to dive deeper into React Native, TypeScript, Google Ads, and the app publishing lifecycle. |
-
-<br>
-<hr>
-<br>
-
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
@@ -63,7 +52,7 @@ My journey to tech was a bit non-traditional! After studying Environmental Engin
 <br>
 
 <p align="center">
-  <img align="center" src="https://github.com/archianne/archianne/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img align="center" src="https://raw.githubusercontent.com/Archianne/Archianne/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
   
 <p align="center">
