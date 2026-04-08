@@ -46,10 +46,9 @@ My journey to tech was a bit non-traditional! After studying Environmental Engin
 <br><hr><br>
 
 <h3>📈 GitHub Stats</h3>
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px" align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archianne/Archianne/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archianne/Archianne/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Archianne/Archianne/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake"  src="https://raw.githubusercontent.com/Archianne/Archianne/output/github-contribution-grid-snake.svg" />
 </picture>
